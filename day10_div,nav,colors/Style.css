@@ -1,0 +1,53 @@
+*{
+    box-sizing: border-box;
+} 
+
+div{
+    background-color: orange;
+    width: 300px;
+    border-radius: 50px;
+    padding: 10px;
+    box-shadow: 10px 10px 10px grey;
+    display: inline-block;
+    margin: 16px 30px 30px 30px ;
+}
+
+.menu{
+    width:280px;
+    height: 200px;
+    border-radius: 50px 50px 0 0;
+}
+
+div h2,h3{
+text-align: center;
+margin: 8px;
+}
+
+div p{
+    text-align: justify;
+    margin: 8px;
+}
+
+span{
+    display: inline-block;
+    text-align: center;
+}
+
+#sideHeading{
+    margin: 0;
+    font-size: 2.3rem;
+    text-align: center;
+}
+
+#mainHeading{
+    font-size: 3rem;
+    margin-bottom: 0;
+    margin-top: 20px;
+    text-align: center;
+}
+
+#desc{
+    text-align: justify;
+    padding: 0 100px;
+}
+
